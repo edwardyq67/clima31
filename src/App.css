@@ -1,0 +1,140 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  background-color:rgb(145, 94, 94) ;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.App01n{
+  background-image:url(./img.fondo/01n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+  
+}
+.App02n{
+  background-image:url(./img.fondo/02n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App03n{
+  background-image:url(./img.fondo/03n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App04n{
+  background-image:url(./img.fondo/04n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App9n{
+  background-image:url(./img.fondo/9n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App10n{
+  background-image:url(./img.fondo/10n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App11n{
+  background-image:url(./img.fondo/11n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App13n{
+  background-image:url(./img.fondo/13n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App50n{
+  background-image:url(./img.fondo/50n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App01d{
+  background-image:url(./img.fondo/01d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App02d{
+  background-image:url(./img.fondo/02d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App03d{
+  background-image:url(./img.fondo/03d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App04d{
+  background-image:url(./img.fondo/04d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App9d{
+  background-image:url(./img.fondo/9d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App10d{
+  background-image:url(./img.fondo/10d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App11d{
+  background-image:url(./img.fondo/11d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App13d{
+  background-image:url(./img.fondo/13d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}
+.App50d{
+  background-image:url(./img.fondo/50d.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100vw;
+  height: 100vh;
+}

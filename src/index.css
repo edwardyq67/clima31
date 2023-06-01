@@ -1,0 +1,29 @@
+.contenedor{
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 10px;
+    backdrop-filter: blur(100px);
+    padding: 30px;
+    max-width: 400px;
+    height: 250px;
+}
+.button{
+    cursor: pointer;
+    margin-left: 10%;
+    background: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    margin-top:10px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: all .2s ease;
+}
+.button:hover{
+    background: rgb(0, 0, 0);
+    color: aliceblue;
+    transform: scale(1.1);
+    border: 1px solid beige;
+}
+.contenedor h2{
+    text-align: center;
+}
